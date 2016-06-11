@@ -5,7 +5,9 @@ Polish (Programmers) Keyboard Layout for use with Japanese MacBooks
 - Polish Input Source added in System Preferences -> Keyboard -> Input Sources
 
 ## Configuration
-Place the ```Pol-Jap.keylayout``` in ```/Library/Keyboard Layouts```
+1. Place the ```Pol-Jap.keylayout``` in ```/Library/Keyboard Layouts```
+2. Logoff, logon
+3. System Preferences -> Input Sources -> + -> Others -> Pol-Jap
 
 ## Remarks
 If ```Pol-Jap.keylayout``` is saved to ```~/Library/Keyboard Layouts``` user can select it, but upon screen lock, it gets switched to different layout and does not come back after unlocking.
